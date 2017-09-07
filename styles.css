@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+
+#reserved{
+    position: absolute;
+    display: flex;
+}
+    
